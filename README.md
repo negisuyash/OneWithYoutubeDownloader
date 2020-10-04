@@ -13,8 +13,8 @@ This Website is hosted at https://youtube-download-application.herokuapp.com/
 
 ## Checkout Logic/Code Quickly on Google Colab
 
-To run this on google colab, please follow this <a href="https://gist.github.com/negisuyash/7e9e2b7f9be37a56ab3f4fc8f9919fe1">link</a> 
-AFter this follow the ngrok link to see the output.
+To run this on google colab, please follow this <a href="https://gist.github.com/negisuyash/7e9e2b7f9be37a56ab3f4fc8f9919fe1">link</a>.
+After this follow the ngrok link to see the output.
 
 ## Limitations
 
