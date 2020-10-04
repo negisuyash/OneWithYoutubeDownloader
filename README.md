@@ -9,7 +9,7 @@ This Website is hosted at https://youtube-download-application.herokuapp.com/
 
 ## Home Screen ScreenShot
 
-<p align="center"> <img src="./Images/home.JPg" width="800" height="300" /> </p>
+<p align="center"> <img src="./Images/home.JPG" width="800" height="300" /> </p>
 
 ## Checkout Logic/Code Quickly on Google Colab
 
